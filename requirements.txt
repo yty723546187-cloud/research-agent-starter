@@ -1,6 +1,7 @@
-streamlit>=1.36
-pandas>=2.2
-numpy>=1.26
-matplotlib>=3.8
-pymupdf>=1.24
-pdfplumber>=0.11
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+pymupdf==1.24.10
+pdfplumber==0.11.4
+pypdfium2==4.30.0
