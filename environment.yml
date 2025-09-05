@@ -1,0 +1,12 @@
+name: ra310
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit=1.36
+  - pandas=2.2
+  - numpy=1.26
+  - matplotlib=3.8
+  - pymupdf=1.24
+  - pdfplumber=0.11
+  - pypdfium2
